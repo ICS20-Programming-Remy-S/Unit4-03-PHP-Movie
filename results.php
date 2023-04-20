@@ -34,7 +34,7 @@ else if ($userAge >= 0) {
 }
 //Display if user did not entre valid age
 else {
-     echo 'You cannot go see Movies by Yourself';
+     echo 'Please enter valid age';
 }
 
 ?> 
